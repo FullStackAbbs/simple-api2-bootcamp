@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+  background-color: #f9e9d0;
+}
+h1 {
+  display:block;
+  float: left;
+  width: 100%;
+  color: #3e6e78;
+  font-family: 'Averia Sans Libre', cursive;
+  font-size: 6rem;
+  margin-top: 10%;
+  text-align:center;
+}
+h3,h4,h5{
+  display:block;
+  float: left;
+  width: 100%;
+  color: #3f4d08;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+  text-align:center;
+  line-height: 3px;
+}
+section{
+display: block;
+float: left;
+width: 23%;
+border: 2px solid #3f4d08;
+margin-top: 5%;
+margin: 1%;
+}
+#entry{
+  display:block;
+  float: left;
+  width: 70%;
+  margin-left:15%;
+}
+input,button{
+  display:block;
+  float: left;
+  width: 50%;
+  font-size: 2.5rem;
+  background-color: #3f4d08;
+  color: white;
+
+}
